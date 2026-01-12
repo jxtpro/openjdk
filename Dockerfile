@@ -1,1 +1,1 @@
-FROM openjdk:8-jre
+FROM openjdk:11.0.8-jre
